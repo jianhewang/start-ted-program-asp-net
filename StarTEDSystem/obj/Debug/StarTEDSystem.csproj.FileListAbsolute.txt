@@ -1,0 +1,24 @@
+C:\Users\kuyas\source\repos\StarTED\StarTEDSystem\bin\Debug\StarTEDSystem.dll.config
+C:\Users\kuyas\source\repos\StarTED\StarTEDSystem\bin\Debug\StarTEDSystem.dll
+C:\Users\kuyas\source\repos\StarTED\StarTEDSystem\bin\Debug\StarTEDSystem.pdb
+C:\Users\kuyas\source\repos\StarTED\StarTEDSystem\bin\Debug\EntityFramework.dll
+C:\Users\kuyas\source\repos\StarTED\StarTEDSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kuyas\source\repos\StarTED\StarTEDSystem\bin\Debug\EntityFramework.xml
+C:\Users\kuyas\source\repos\StarTED\StarTEDSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kuyas\source\repos\StarTED\StarTEDSystem\obj\Debug\StarTEDSystem.csprojAssemblyReference.cache
+C:\Users\kuyas\source\repos\StarTED\StarTEDSystem\obj\Debug\StarTEDSystem.csproj.CoreCompileInputs.cache
+C:\Users\kuyas\source\repos\StarTED\StarTEDSystem\obj\Debug\StarTEDSystem.csproj.CopyComplete
+C:\Users\kuyas\source\repos\StarTED\StarTEDSystem\obj\Debug\StarTEDSystem.dll
+C:\Users\kuyas\source\repos\StarTED\StarTEDSystem\obj\Debug\StarTEDSystem.pdb
+E:\NAIT\cpsc1517\Final Project\StarTEDSystem\bin\Debug\StarTEDSystem.dll.config
+E:\NAIT\cpsc1517\Final Project\StarTEDSystem\bin\Debug\StarTEDSystem.dll
+E:\NAIT\cpsc1517\Final Project\StarTEDSystem\bin\Debug\StarTEDSystem.pdb
+E:\NAIT\cpsc1517\Final Project\StarTEDSystem\bin\Debug\EntityFramework.dll
+E:\NAIT\cpsc1517\Final Project\StarTEDSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\NAIT\cpsc1517\Final Project\StarTEDSystem\bin\Debug\EntityFramework.xml
+E:\NAIT\cpsc1517\Final Project\StarTEDSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\NAIT\cpsc1517\Final Project\StarTEDSystem\obj\Debug\StarTEDSystem.csproj.AssemblyReference.cache
+E:\NAIT\cpsc1517\Final Project\StarTEDSystem\obj\Debug\StarTEDSystem.csproj.CoreCompileInputs.cache
+E:\NAIT\cpsc1517\Final Project\StarTEDSystem\obj\Debug\StarTEDSystem.csproj.CopyComplete
+E:\NAIT\cpsc1517\Final Project\StarTEDSystem\obj\Debug\StarTEDSystem.dll
+E:\NAIT\cpsc1517\Final Project\StarTEDSystem\obj\Debug\StarTEDSystem.pdb

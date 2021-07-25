@@ -1,0 +1,34 @@
+.homepage {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.homepage > div {
+    flex-basis: 48%;
+}
+
+.crud-ddl {
+    display:flex;
+    max-width: 900px;
+}
+.crud-ddl > * {
+    margin-right: 1rem;
+}
+
+.crud-ddl > label {
+    text-align: right;
+    flex-basis: 80px;
+}
+
+.crud-ddl > select {
+    flex-basis: 600px;
+}
+
+.crud-ddl > input {
+    flex-basis: 40px;
+}
+
+.schools {
+    max-width: 360px;
+}
